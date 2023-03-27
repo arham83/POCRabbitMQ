@@ -1,0 +1,17 @@
+D:\LayerOne\Project - RabbitMQ\Poc\Server\bin\Debug\net7.0\Server.exe
+D:\LayerOne\Project - RabbitMQ\Poc\Server\bin\Debug\net7.0\Server.deps.json
+D:\LayerOne\Project - RabbitMQ\Poc\Server\bin\Debug\net7.0\Server.runtimeconfig.json
+D:\LayerOne\Project - RabbitMQ\Poc\Server\bin\Debug\net7.0\Server.dll
+D:\LayerOne\Project - RabbitMQ\Poc\Server\bin\Debug\net7.0\Server.pdb
+D:\LayerOne\Project - RabbitMQ\Poc\Server\bin\Debug\net7.0\RabbitMQ.Client.dll
+D:\LayerOne\Project - RabbitMQ\Poc\Server\obj\Debug\net7.0\Server.csproj.AssemblyReference.cache
+D:\LayerOne\Project - RabbitMQ\Poc\Server\obj\Debug\net7.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\LayerOne\Project - RabbitMQ\Poc\Server\obj\Debug\net7.0\Server.AssemblyInfoInputs.cache
+D:\LayerOne\Project - RabbitMQ\Poc\Server\obj\Debug\net7.0\Server.AssemblyInfo.cs
+D:\LayerOne\Project - RabbitMQ\Poc\Server\obj\Debug\net7.0\Server.csproj.CoreCompileInputs.cache
+D:\LayerOne\Project - RabbitMQ\Poc\Server\obj\Debug\net7.0\Server.csproj.CopyComplete
+D:\LayerOne\Project - RabbitMQ\Poc\Server\obj\Debug\net7.0\Server.dll
+D:\LayerOne\Project - RabbitMQ\Poc\Server\obj\Debug\net7.0\refint\Server.dll
+D:\LayerOne\Project - RabbitMQ\Poc\Server\obj\Debug\net7.0\Server.pdb
+D:\LayerOne\Project - RabbitMQ\Poc\Server\obj\Debug\net7.0\Server.genruntimeconfig.cache
+D:\LayerOne\Project - RabbitMQ\Poc\Server\obj\Debug\net7.0\ref\Server.dll
