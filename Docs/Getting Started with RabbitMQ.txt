@@ -1,0 +1,33 @@
+Getting Started with Rabbit Mq
+
+1. Install Erlang
+
+Use the following link to download; 
+https://erlang.org/download/otp_versions_tree.html
+
+Once installed you need to configure the environmental variables
+
+
+2. Install Rabbit MQ
+
+Use the following link to download; 
+https://github.com/rabbitmq/rabbitmq-server/
+
+3. Running RabbitMQ Server
+
+Run CMD;
+>> cd 'C:\Program Files\RabbitMQ Server\rabbitmq_server-3.11.10\sbin'
+>> ./rabbitmq-plugins.bat enable rabbitmq_management //To enable the management console http://localhost:15672/ 
+>> ./rabbitmq-server.bat // to run the server
+
+If it throws the error;
+ ERROR: could not bind to distribution port 25672, it is in use by another node: rabbit@wss
+
+then the solution is as follow;
+stop rabitmq server windows+R then type "services.msc" and then find for RabitMq.
+select and stop from left top corner. 
+Then re run your rabitmq server.
+
+
+4. you can access the server at http://localhost:15672/ 
+

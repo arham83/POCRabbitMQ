@@ -1,0 +1,8 @@
+The Size of Message,0.523
+No. of Messages(Nos),Times(ms),Average time per message(ms)
+10,5802,580.2
+100,5804,58.04
+1000,5816,5.816
+10000,5928,0.5928
+100000,7053,0.07053
+1000000,18900,0.0189

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hyy5A2L9LS0zw7qdE6DIhg94a29aaFF+GBdOYzqoivXhI+icR55Gti9UgrXlzkyDO5XPZzIjKNpWEAVITaa7Kg==",
+  "success": true,
+  "projectFilePath": "D:\\LayerOne\\Project - RabbitMQ\\PonePOC - Queue\\Consumer\\Consumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Arham\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\Arham\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Arham\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
