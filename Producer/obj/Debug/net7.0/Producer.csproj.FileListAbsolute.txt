@@ -1,0 +1,36 @@
+D:\LayerOne\Project - RabbitMQ\PonePOC\Producer\obj\Debug\net7.0\Producer.csproj.AssemblyReference.cache
+D:\LayerOne\Project - RabbitMQ\PonePOC\Producer\obj\Debug\net7.0\Producer.GeneratedMSBuildEditorConfig.editorconfig
+D:\LayerOne\Project - RabbitMQ\PonePOC\Producer\obj\Debug\net7.0\Producer.AssemblyInfoInputs.cache
+D:\LayerOne\Project - RabbitMQ\PonePOC\Producer\obj\Debug\net7.0\Producer.AssemblyInfo.cs
+D:\LayerOne\Project - RabbitMQ\PonePOC\Producer\obj\Debug\net7.0\Producer.csproj.CoreCompileInputs.cache
+D:\LayerOne\Project - RabbitMQ\PonePOC\Producer\bin\Debug\net7.0\Producer.exe
+D:\LayerOne\Project - RabbitMQ\PonePOC\Producer\bin\Debug\net7.0\Producer.deps.json
+D:\LayerOne\Project - RabbitMQ\PonePOC\Producer\bin\Debug\net7.0\Producer.runtimeconfig.json
+D:\LayerOne\Project - RabbitMQ\PonePOC\Producer\bin\Debug\net7.0\Producer.dll
+D:\LayerOne\Project - RabbitMQ\PonePOC\Producer\bin\Debug\net7.0\Producer.pdb
+D:\LayerOne\Project - RabbitMQ\PonePOC\Producer\bin\Debug\net7.0\RabbitMQ.Client.dll
+D:\LayerOne\Project - RabbitMQ\PonePOC\Producer\obj\Debug\net7.0\Producer.csproj.CopyComplete
+D:\LayerOne\Project - RabbitMQ\PonePOC\Producer\obj\Debug\net7.0\Producer.dll
+D:\LayerOne\Project - RabbitMQ\PonePOC\Producer\obj\Debug\net7.0\refint\Producer.dll
+D:\LayerOne\Project - RabbitMQ\PonePOC\Producer\obj\Debug\net7.0\Producer.pdb
+D:\LayerOne\Project - RabbitMQ\PonePOC\Producer\obj\Debug\net7.0\Producer.genruntimeconfig.cache
+D:\LayerOne\Project - RabbitMQ\PonePOC\Producer\obj\Debug\net7.0\ref\Producer.dll
+D:\LayerOne\Project - RabbitMQ\PonePOC\producer\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\LayerOne\Project-RabbitMQ\PonePOC\Producer\bin\Debug\net7.0\Producer.exe
+D:\LayerOne\Project-RabbitMQ\PonePOC\Producer\bin\Debug\net7.0\Producer.deps.json
+D:\LayerOne\Project-RabbitMQ\PonePOC\Producer\bin\Debug\net7.0\Producer.runtimeconfig.json
+D:\LayerOne\Project-RabbitMQ\PonePOC\Producer\bin\Debug\net7.0\Producer.dll
+D:\LayerOne\Project-RabbitMQ\PonePOC\Producer\bin\Debug\net7.0\Producer.pdb
+D:\LayerOne\Project-RabbitMQ\PonePOC\Producer\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\LayerOne\Project-RabbitMQ\PonePOC\Producer\bin\Debug\net7.0\RabbitMQ.Client.dll
+D:\LayerOne\Project-RabbitMQ\PonePOC\Producer\obj\Debug\net7.0\Producer.csproj.AssemblyReference.cache
+D:\LayerOne\Project-RabbitMQ\PonePOC\Producer\obj\Debug\net7.0\Producer.GeneratedMSBuildEditorConfig.editorconfig
+D:\LayerOne\Project-RabbitMQ\PonePOC\Producer\obj\Debug\net7.0\Producer.AssemblyInfoInputs.cache
+D:\LayerOne\Project-RabbitMQ\PonePOC\Producer\obj\Debug\net7.0\Producer.AssemblyInfo.cs
+D:\LayerOne\Project-RabbitMQ\PonePOC\Producer\obj\Debug\net7.0\Producer.csproj.CoreCompileInputs.cache
+D:\LayerOne\Project-RabbitMQ\PonePOC\Producer\obj\Debug\net7.0\Producer.csproj.CopyComplete
+D:\LayerOne\Project-RabbitMQ\PonePOC\Producer\obj\Debug\net7.0\Producer.dll
+D:\LayerOne\Project-RabbitMQ\PonePOC\Producer\obj\Debug\net7.0\refint\Producer.dll
+D:\LayerOne\Project-RabbitMQ\PonePOC\Producer\obj\Debug\net7.0\Producer.pdb
+D:\LayerOne\Project-RabbitMQ\PonePOC\Producer\obj\Debug\net7.0\Producer.genruntimeconfig.cache
+D:\LayerOne\Project-RabbitMQ\PonePOC\Producer\obj\Debug\net7.0\ref\Producer.dll
